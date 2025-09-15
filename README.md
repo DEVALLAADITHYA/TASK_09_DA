@@ -31,13 +31,17 @@ Actionable Insight: Businesses can plan inventory & marketing campaigns for Q4 t
 <img width="732" height="620" alt="SQL TASK 9 1" src="https://github.com/user-attachments/assets/093d56d4-71f4-4534-abaf-dcba1138f139" />
 
 
+
 <img width="931" height="645" alt="SQL TASK 9 2" src="https://github.com/user-attachments/assets/199ec0d0-dab6-4dab-af8c-318ab64ebc58" />
+
 
 
 <img width="936" height="646" alt="SQL TASK 9 3" src="https://github.com/user-attachments/assets/125dbf6a-3668-44bb-899b-69058aa50787" />
 
 
+
 <img width="1276" height="661" alt="SQL TASK 9 4" src="https://github.com/user-attachments/assets/a7aae08b-994d-483b-a1e1-6fdca45a0ad7" />
+
 
 
 
